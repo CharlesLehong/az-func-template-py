@@ -1,0 +1,23 @@
+# Uncomment to enable Azure Monitor OpenTelemetry
+# Ref: aka.ms/functions-azure-monitor-python
+# azure-monitor-opentelemetry
+
+azure-functions
+pandas
+prophet
+datetime
+numpy
+openpyxl
+requests
+matplotlib
+sas7bdat
+statsmodels
+seaborn
+scikit-learn
+xlsxwriter
+pyarrow
+pdf2image
+google-generativeai
+pytesseract
+duckdb
+#autogluon.timeseries
